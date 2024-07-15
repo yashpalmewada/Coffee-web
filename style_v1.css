@@ -280,7 +280,8 @@ section p {
 
 /*banner css*/
 .banner {
-    background: url(/images/banner-bg.png) ;
+    background: url(/images/banner-bg.png )  ;
+    background-size: cover;
     color: #fff;
     padding: 100px 0 95px;
 }
